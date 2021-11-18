@@ -15,7 +15,7 @@ namespace ConsoleApp1
         {
             const string siteUrl = "https://cffoundation.sharepoint.com/CRMDEV";
             const string folderUrl = "https://cffoundation.sharepoint.com/CRMDEV";
-            const string username = "svc_CP-Int@cff.org";
+            const string username = ""; // <<<< username goes here
             const string password = ""; // <<<< password goes here
             const string azureAppId = ""; // <<<< azure application id goes here
 
